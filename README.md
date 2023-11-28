@@ -29,4 +29,11 @@
 - 💞️ If you encounter any difficulties and need assistance, please feel free to contact me at any time.
 - 📫 How to reach me? Email: taxze.xiaoyan@gmail.com Telegram: https://t.me/TaxzeYan QQ:1929509811
 
-<a href="https://juejin.cn/user/598591926699358"><img src="https://stats.justsong.cn/api/juejin?id=598591926699358" /></a>&emsp;
+<div align="start">
+<a href="https://github.com/taxze6">
+<image src="https://readmestats.999857.xyz/api?username=taxze6&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="170px" />
+</a>
+<a href="https://github.com/taxze6">
+<image src="https://readmestats.999857.xyz/api/top-langs/?username=taxze6&layout=compact" height="170px" />
+</a>
+</div>
