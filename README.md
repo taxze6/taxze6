@@ -1,11 +1,30 @@
-### Hi there 👋
-- 👀您好，我叫Taxze，您可以通过wx搜索Taxze2019找到我!
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taxze6)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Taxze&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=taxze6&left_color=green&right_color=red)
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
-我在这里：
-|  掘金   |  CSDN  |  bilibili  |   知乎  | 简书 |
-|  ----   | ----   |  ----  | ----    | ----|
-| [编程的平行世界](https://juejin.cn/user/598591926699358)  | [编程的平行世界](https://blog.csdn.net/txaz6) |[编程的平行世界](https://space.bilibili.com/494742622)|[编程的平行世界](https://www.zhihu.com/people/taxze)|[编程的平行世界](https://www.jianshu.com/u/0cf1892ddfd9)|
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://juejin.cn/user/598591926699358"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/494742622"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=taxze6&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+<p><b>If you have too many special cases, you are doing it wrong.</b></p>
+</div>
+
+## Hi! Nice to meet you!
+
+<!-- 个人简介 -->
+- 👋 Hi, I’m taxze
+- 👀 I’m interest in Flutter, Android Kotlin, AI, Golang, AI, etc.
+- 🌱 I’m looking for opportunities in remote development positions, please feel free to contact me at any time.
+- 💞️ If you encounter any difficulties and need assistance, please feel free to contact me at any time.
+- 📫 How to reach me? Email: taxze.xiaoyan@gmail.com Telegram: https://t.me/TaxzeYan QQ:1929509811
