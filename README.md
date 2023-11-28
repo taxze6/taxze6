@@ -3,6 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taxze6)](https://github.com/anuraghazra/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=taxze6&left_color=green&right_color=red)
+
 我在这里：
 |  掘金   |  CSDN  |  bilibili  |   知乎  | 简书 |
 |  ----   | ----   |  ----  | ----    | ----|
