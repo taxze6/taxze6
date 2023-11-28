@@ -28,3 +28,5 @@
 - 🌱 I’m looking for opportunities in remote development positions, please feel free to contact me at any time.
 - 💞️ If you encounter any difficulties and need assistance, please feel free to contact me at any time.
 - 📫 How to reach me? Email: taxze.xiaoyan@gmail.com Telegram: https://t.me/TaxzeYan QQ:1929509811
+
+<a href="https://juejin.cn/user/598591926699358"><img src="https://stats.justsong.cn/api/juejin?id=598591926699358" /></a>&emsp;
