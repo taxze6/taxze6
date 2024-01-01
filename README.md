@@ -27,7 +27,7 @@
 - 👀 I’m interest in Flutter, Android Kotlin, AI, Golang, AI, etc.
 - 🌱 I’m looking for opportunities in remote development positions, please feel free to contact me at any time.
 - 💞️ If you encounter any difficulties and need assistance, please feel free to contact me at any time.
-- 📫 How to reach me? Email: taxze.xiaoyan@gmail.com QQ:1929509811
+- 📫 How to reach me? Email: taxze.xiaoyan@gmail.com QQ:1929509811 WeChat:Taxze2019
 
 <div align="start">
 <a href="https://github.com/taxze6">
