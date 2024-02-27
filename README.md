@@ -24,7 +24,7 @@
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m taxze
-- 👀 I’m interest in Flutter, Android Kotlin, AI, Golang, AI, etc.
+- 👀 I’m interest in Flutter, Android Kotlin, AI, Golang, Web3.
 - 🌱 I'm looking for a Flutter software engineer position in Hangzhou or remotely. Please feel free to contact me.
 - 💞️ If you encounter any difficulties in the project and need assistance, please feel free to contact me at any time.
 - 🍖 Keep Reading,Keep Writing,Keep Coding.
