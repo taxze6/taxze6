@@ -23,11 +23,11 @@
 ## Hi! Nice to meet you!
 
 <!-- 个人简介 -->
-- 👋 Hi, I’m taxze.
-- 👀 I’m interest in Flutter, Android Kotlin, AI, Golang, Web3.
-- 🌱 I'm looking for a Flutter software engineer position in Hangzhou or remotely. Please feel free to contact me.
-- 💞️ If you encounter any difficulties in the project and need assistance, please feel free to contact me at any time.
-- 🍖 Keep Reading,Keep Writing,Keep Coding.
+- 👋 Hi, I’m taxze. 
+- 👀 I’m interest in Flutter, Android Kotlin, AI, Golang, Web3. 
+- 🌱 I'm looking for a Flutter software engineer position in Hangzhou or remotely. Please feel free to contact me. 
+- 💞️ If you encounter any difficulties in the project and need assistance, please feel free to contact me at any time. 
+- 🍖 Keep Reading,Keep Writing,Keep Coding. 
 - 📫 How to reach me? Email: taxze.xiaoyan@gmail.com QQ:1929509811 WeChat:Taxze2019 
 
 <div align="start">
